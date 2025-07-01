@@ -13,11 +13,15 @@ This project analyzes retail sales using MySQL. The dataset includes orders, cus
 - `data.sql`: Sample data (100 rows per table)
 - `queries.sql`: Business insights queries
 
-## 📈 Key Questions Answered
+## 📈 Analysis Questions Answered
 - Which product is most popular?
-- Monthly revenue trends?
+- Monthly sales trends?
 - Which customers are high spenders?
 - Repeat purchase behavior?
+- Average order value per month?
+- Most used payment methods?
+- Product review summary?
+- Shiping performance?
 
 ## ✅ Setup Instructions
 1. Import `schema.sql` into your MySQL server
